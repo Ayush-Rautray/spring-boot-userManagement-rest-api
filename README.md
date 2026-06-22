@@ -19,7 +19,6 @@ The application provides RESTful APIs for creating, retrieving, updating, and de
 * Create, Read, Update, and Delete (CRUD) operations
 * RESTful API design
 * DTO Pattern implementation
-* Global Exception Handling
 * MySQL database integration
 * Layered Architecture (Controller-Service-Repository)
 * Postman API testing
